@@ -1,4 +1,6 @@
-package org.connector.base;
+package org.connector.filter;
+
+import org.connector.base.Key;
 
 import java.util.List;
 import java.util.Optional;
